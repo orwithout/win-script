@@ -14,7 +14,7 @@ exit
 
 
 
-slmgr.vbs -upk && slmgr.vbs -ipk N69G4-B89J2-4G8F4-WWYCC-J464C && slmgr /skms zh.us.to && slmgr /ato && slmgr /xpr
+slmgr.vbs -upk && slmgr.vbs -ipk N69G4-B89J2-4G8F4-WWYCC-J464C && slmgr /skms skms.netnr.eu.org && slmgr /ato && slmgr /xpr
 
 
 ::备用kms服务器：
